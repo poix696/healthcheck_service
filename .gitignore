@@ -1,0 +1,8 @@
+.idea/
+target/
+*.log
+*.retry
+ansible.cfg
+host
+com
+*.iml
