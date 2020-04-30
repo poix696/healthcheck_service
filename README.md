@@ -1,2 +1,2 @@
 # healthcheck_service
-qwerty
+Задание №4. Знакомтсво с Maven. Реализация health-сервиса.
